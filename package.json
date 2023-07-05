@@ -1,0 +1,23 @@
+{
+  "name": "link-dashboard",
+  "version": "1.0.0",
+  "description": "Dashboard of bio links. Similar to Linktree.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "five-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jluterek/link-dashboard.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jluterek/link-dashboard/issues"
+  },
+  "homepage": "https://github.com/jluterek/link-dashboard#readme",
+  "dependencies": {
+    "five-server": "^0.3.1"
+  }
+}
